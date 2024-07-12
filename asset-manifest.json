@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/namangupta507/react-admin/static/css/main.1e98459b.css",
-    "main.js": "/namangupta507/react-admin/static/js/main.61494cff.js",
-    "index.html": "/namangupta507/react-admin/index.html",
-    "main.1e98459b.css.map": "/namangupta507/react-admin/static/css/main.1e98459b.css.map",
-    "main.61494cff.js.map": "/namangupta507/react-admin/static/js/main.61494cff.js.map"
+    "main.css": "/react-admin/static/css/main.1e98459b.css",
+    "main.js": "/react-admin/static/js/main.61494cff.js",
+    "index.html": "/react-admin/index.html",
+    "main.1e98459b.css.map": "/react-admin/static/css/main.1e98459b.css.map",
+    "main.61494cff.js.map": "/react-admin/static/js/main.61494cff.js.map"
   },
   "entrypoints": [
     "static/css/main.1e98459b.css",
