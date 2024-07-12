@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/namangupta507/react-admin/static/css/main.1e98459b.css",
+    "main.js": "/namangupta507/react-admin/static/js/main.61494cff.js",
+    "index.html": "/namangupta507/react-admin/index.html",
+    "main.1e98459b.css.map": "/namangupta507/react-admin/static/css/main.1e98459b.css.map",
+    "main.61494cff.js.map": "/namangupta507/react-admin/static/js/main.61494cff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e98459b.css",
+    "static/js/main.61494cff.js"
+  ]
+}
